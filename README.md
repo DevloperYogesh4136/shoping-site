@@ -1,6 +1,7 @@
 Creating a website using HTML and CSS is a foundational skill if you are learning web development. HTML (HyperText Markup Language) is used to structure content, while CSS (Cascading Style Sheets) is used for styling, including colors, fonts, margins, and positioning. In this article, we’ll go through the steps to create a simple, responsive webpage.
 
-Screenshot-2024-01-15-170222
+![Uploading image.png…]()
+
 Approach
 Basic HTML Structure: Create a fundamental layout with a navigation bar, including a logo and navigation links.
 Search Box: Add a search box with a search button in the navigation menu.
